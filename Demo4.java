@@ -8,8 +8,8 @@ public class Demo4 {
         int hour = 23;
         int minutes = 59;
         int seconds = 59;
-        
 
+        System.out.printf("%s/%s/%s %s:%s:%s\n",mounth,date,year,hour,minutes,seconds);
 
     }
     
