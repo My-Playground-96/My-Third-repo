@@ -6,7 +6,7 @@ public class Demo3 {
         int num2 = 456;
         int num3 = 7890;
         
-        System.out.printf("(%s)",num1);
+        System.out.printf("(%s) %s-%s\n",num1,num2,num3);
 
     }
     
