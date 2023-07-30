@@ -9,8 +9,6 @@ public class Demo4 {
         int minutes = 59;
         int seconds = 59;
 
-        String reset = "\033[0m";
-
         System.out.printf("\033[032m%s\033[0m/\033[033m%s\033[0m/\033[034m%s\033[35m %s\033[0m:\033[36m%s\033[0m:\033[30m%s\n",mounth,date,year,hour,minutes,seconds);
 
     }
